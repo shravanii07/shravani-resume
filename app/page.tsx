@@ -20,10 +20,10 @@ export default function Home() {
             {/* Name and Title */}
             <div className="text-center md:text-left">
               <h1 className="text-4xl font-bold tracking-tight">
-                Shravani Dandge
+                Shravani Babasaheb Dandge
               </h1>
               <p className="text-xl mt-2 text-indigo-100">
-                Full Stack Developer
+                Frontend Developer
               </p>
               <div className="flex flex-wrap justify-center md:justify-start gap-4 mt-4 text-sm">
                 <a href="mailto:shravani.dandge@email.com" className="flex items-center gap-2 hover:text-indigo-200 transition-colors">
