@@ -152,6 +152,7 @@ export default function Home() {
                   <li>Contributed to designing and improving the company’s privacy page UI.</li>
                   <li>Built a feedback form and assisted with content creation for Instagram posts.</li>
                   <li>Learned and applied Django and web scraping concepts for R&D tasks.</li>
+                  <li>Helped with content creation for comapnys instagram page.</li>
                 </ul>
               </div>
             </div>
@@ -166,8 +167,8 @@ export default function Home() {
             <div className="space-y-6">
               <div className="relative pl-8 border-l-2 border-indigo-200">
                 <div className="absolute -left-2 top-0 w-4 h-4 bg-indigo-600 rounded-full"></div>
-                <h3 className="text-lg font-semibold text-gray-800">B.Tech in Computer Science & Engineering</h3>
-                <p className="text-indigo-600 font-medium">Graduated</p>
+                <h3 className="text-lg font-semibold text-gray-800">B.Tech in Computer Science & Engineering - 7.10 CGPA</h3>
+                <p className="text-indigo-600 font-medium">Marathwada Institute of Technology, Chh Sambhajinagar</p>
               </div>
 
               <div className="relative pl-8 border-l-2 border-indigo-200">
